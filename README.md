@@ -12,7 +12,7 @@ This project is a web page developed in HTML, CSS and JS to solve the **first ch
 
 
 ## Link
-https://gabrielvillarreal.github.io/
+https://gabrielvillarreal.github.io/Proyecto-codificador-de-texto/
 
 ## The challenge
 
