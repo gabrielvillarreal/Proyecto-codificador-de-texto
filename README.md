@@ -37,3 +37,6 @@ Put into practice everything learned during the first 10 courses by building a w
 * The page must have fields for inserting the text to be encoded or decoded, and the user must be able to choose between both options.
 * The result must be displayed on the screen.
 * It must contain a button that copies the resulting text (having the same functionality as ctrl + c).
+* 
+## The design
+[This is the design](https://www.figma.com/file/trP3p5nEh7XUyB3n2bomjP/Alura-Challenge---Desaf%C3%ADo-1---L%C3%B3gica?node-id=0%3A1) made in Figma that we received to build on or otherwise we could make a customized one.
